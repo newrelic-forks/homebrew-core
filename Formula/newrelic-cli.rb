@@ -1,8 +1,8 @@
 class NewrelicCli < Formula
   desc "The New Relic Command-line Interface"
   homepage "https://github.com/newrelic/newrelic-cli"
-  url "https://github.com/newrelic/newrelic-cli/archive/v0.8.3.tar.gz"
-  sha256 "d0e22d9f88180051b6cb0caf7cdab9faaf7fca28a96c8ce0a320d0a7c340071d"
+  url "https://github.com/newrelic/newrelic-cli/archive/v0.8.2.tar.gz"
+  sha256 "3fcdff485a0b55e30a5a44c5e6dcd3292fc391762bbac4aaaf0d798d24c91583"
   head "https://github.com/newrelic/newrelic-cli.git"
 
   bottle do
