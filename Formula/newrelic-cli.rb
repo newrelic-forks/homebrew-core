@@ -1,8 +1,8 @@
 class NewrelicCli < Formula
   desc "Command-line interface for New Relic"
   homepage "https://github.com/newrelic/newrelic-cli"
-  url "https://github.com/newrelic/newrelic-cli/archive/refs/tags/v0.65.4.tar.gz"
-  sha256 "f6c8466b4e3e6fa4bb257191880c3207735cb1169e300782a0c711de75250788"
+  url "https://github.com/newrelic/newrelic-cli/archive/v0.65.5.tar.gz"
+  sha256 "97d355831d4e2c1be3bc465a9c671f1328841df42a567bedaebdbdf4958702de"
   license "Apache-2.0"
   head "https://github.com/newrelic/newrelic-cli.git", branch: "main"
 
